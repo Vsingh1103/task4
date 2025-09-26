@@ -1,6 +1,6 @@
 # task4
 ## 🎯 Objective
-Learn how to summarize and analyze data using **aggregate functions** with `GROUP BY` and `HAVING`.
+summarize and analyze data using **aggregate functions** with `GROUP BY` and `HAVING`.
 
 ## 🛠 Tools
 - DB Browser for SQLite  
