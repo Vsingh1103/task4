@@ -1,17 +1,17 @@
 # task4
-## 🎯 Objective
+##  Objective
 summarize and analyze data using **aggregate functions** with `GROUP BY` and `HAVING`.
 
-## 🛠 Tools
+##  Tools
 - DB Browser for SQLite  
 
-## 📂 Deliverables
+##  Deliverables
 - SQL queries using:
   - SUM, COUNT, AVG, MIN, MAX
   - 'GROUP BY' for categorization
   - 'HAVING' to filter groups
 
-## 🧑‍💻 Example Queries
+## Example Queries
 
 ### Count total customers
 SELECT COUNT(*) AS TotalCustomers
